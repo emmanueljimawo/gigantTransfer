@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774408971963",
+    "project_id": "giganttransfer",
+    "storage_bucket": "giganttransfer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774408971963:android:8d078724687eac30246b9e",
+        "android_client_info": {
+          "package_name": "com.gigantsoftware.gigantTransfer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Ndi6rgeYGs9hTiju-RsKw-nrtombykc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
